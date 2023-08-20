@@ -1,0 +1,14 @@
+User,Product
+User 1,Electronics
+User 1,Sports Equipment
+User 1,Clothing
+User 2,Clothing
+User 2,Accessories
+User 2,Electronics
+User 2,Beauty Products
+User 3,Sports Equipment
+User 3,Activewear
+User 3,Electronics
+User 4,Clothing
+User 4,Accessories
+User 4,Beauty Products
