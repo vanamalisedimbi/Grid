@@ -1,1 +1,10 @@
 This is our submission for Flipkart GRiD 2023.
+
+test_data.txt is a dummy dataset we created, small in size so you can go over it quickly to get a
+quick grasp of what it is
+
+same goes for training_data.txt which as the name suggests is the training data.
+
+rec is the actual python script.
+
+Thank you!
